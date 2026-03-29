@@ -30,15 +30,22 @@ function getTimestampId() {
     ].join("");
 }
 
+function getVersionFromSource(sourceContent) {
+    const match = sourceContent.match(/version:\s*["']([^"']+)["']/);
+    return match ? match[1] : "unknown";
+}
+
 async function ensureDir(filePath) {
     await fs.mkdir(path.dirname(filePath), { recursive: true });
 }
 
 async function main() {
-    const buildId = getTimestampId();
-    const historyFile = path.join(scriptsDir, `/builds/proximity_boost_counter_${buildId}.js`);
+    const isRelease = process.argv.includes("--release");
     const boostsData = await fs.readFile('./src/boosts.json', 'utf-8');
     const sourceContent = await fs.readFile(sourceFile, 'utf-8');
+
+    const buildId = isRelease ? `v${getVersionFromSource(sourceContent)}` : getTimestampId();
+    const historyFile = path.join(scriptsDir, `/builds/proximity_boost_counter_${buildId}.js`);
 
     const finalContent = sourceContent.replace('__PROXIMITY_DATA_PLACEHOLDER__', boostsData);
 
