@@ -1,3 +1,4 @@
-memory.md
-node_modules/
+.git_ignore/
 builds/
+node_modules/
+.vscode/

@@ -10,8 +10,8 @@ import { fileURLToPath } from "node:url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const sourceFile = path.resolve("./proximity_boost_counter.flexui.js");
-const scriptsDir = path.resolve( "./");
+const sourceFile = path.resolve("./src/proximity_boost_counter.flexui.js");
+const scriptsDir = path.resolve("./");
 const livePluginFile = path.join(os.homedir(), "Documents", "OpenRCT2", "plugin", "proximity_boost_counter.js");
 
 function getTimestampId() {
@@ -37,12 +37,21 @@ async function ensureDir(filePath) {
 async function main() {
     const buildId = getTimestampId();
     const historyFile = path.join(scriptsDir, `/builds/proximity_boost_counter_${buildId}.js`);
+    const boostsData = await fs.readFile('./src/boosts.json', 'utf-8');
+    const sourceContent = await fs.readFile(sourceFile, 'utf-8');
+
+    const finalContent = sourceContent.replace('__PROXIMITY_DATA_PLACEHOLDER__', boostsData);
 
     await ensureDir(historyFile);
     await ensureDir(livePluginFile);
 
     await build({
-        entryPoints: [sourceFile],
+        stdin: {
+            contents: finalContent,
+            resolveDir: __dirname,
+            sourcefile: sourceFile,
+            loader: 'js',
+        },
         bundle: true,
         format: "iife",
         platform: "browser",

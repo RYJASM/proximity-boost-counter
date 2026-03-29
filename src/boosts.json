@@ -1,0 +1,223 @@
+[
+    {
+        "key": "water_over",
+        "label": "Over water",
+        "kind": "perPiece",
+        "cap": 60,
+        "description": "Track pieces at or above the water surface.",
+        "impact": "Base proximity score: up to 60 pieces at 0.666656 each."
+    },
+    {
+        "key": "water_touch",
+        "label": "Skimming water",
+        "kind": "perPiece",
+        "cap": 22,
+        "description": "Track pieces exactly at the water surface.",
+        "impact": "Base proximity score: up to 22 pieces at 2.272720 each. Stacks with 'Over water'."
+    },
+    {
+        "key": "water_low",
+        "label": "1 unit above water",
+        "kind": "perPiece",
+        "cap": 10,
+        "description": "Track pieces exactly 1 build height unit (5 ft) above the water surface.",
+        "impact": "Base proximity score: up to 10 pieces at 2.0 each. Stacks with 'Over water'."
+    },
+    {
+        "key": "water_high",
+        "label": "8+ units above water",
+        "kind": "perPiece",
+        "cap": 40,
+        "description": "Track pieces at least 8 build height units (40 ft) above the water surface.",
+        "impact": "Base proximity score: up to 40 pieces at 0.625 each. Stacks with 'Over water'."
+    },
+    {
+        "key": "surface_touch",
+        "label": "Touching ground",
+        "kind": "perPiece",
+        "cap": 70,
+        "description": "Track pieces whose bottom is exactly at ground level.",
+        "impact": "Base proximity score: up to 70 pieces at 1.714279 each."
+    },
+    {
+        "key": "surface_side_close",
+        "label": "Cliff/trench wall alongside",
+        "kind": "seeded",
+        "cap": 20,
+        "seed": 10,
+        "description": "Raised land or trench walls to the left or right of the track that rise above the track's clearance height.",
+        "impact": "Base proximity score: min(raw + 10, 20) at 2.5 each."
+    },
+    {
+        "key": "queue_path_over",
+        "label": "Track over queue",
+        "kind": "seeded",
+        "cap": 12,
+        "seed": 8,
+        "description": "Queue path pieces below the track.",
+        "impact": "Base proximity score: min(raw + 8, 12) at 6.25 each. Huge seeded bonus."
+    },
+    {
+        "key": "queue_path_touch_above",
+        "label": "Queue touching track bottom",
+        "kind": "presence",
+        "description": "A one-time boost for a queue path piece below the track with zero gap between the clearance height of the queue path and the base of the track.",
+        "impact": "Adds a one-time 40 proximity score if present anywhere."
+    },
+    {
+        "key": "queue_path_touch_under",
+        "label": "Queue touching track top",
+        "kind": "presence",
+        "description": "A one-time boost for a queue path piece above the track with zero gap between the base of the queue path and the clearance height of the track.",
+        "impact": "Adds a one-time 45 proximity score if present anywhere."
+    },
+    {
+        "key": "path_touch_above",
+        "label": "Path touching track bottom",
+        "kind": "seeded",
+        "cap": 20,
+        "seed": 10,
+        "description": "Path below the track with zero gap between the clearance height of the path and the base of the track.",
+        "impact": "Base proximity score: min(raw + 10, 20) at 3.75 each."
+    },
+    {
+        "key": "path_touch_under",
+        "label": "Path touching track top",
+        "kind": "seeded",
+        "cap": 20,
+        "seed": 10,
+        "description": "Path above the track with zero gap between the base of the path and the clearance height of the track.",
+        "impact": "Base proximity score: min(raw + 10, 20) at 4.25 each."
+    },
+    {
+        "key": "path_side_close",
+        "label": "Path alongside",
+        "kind": "seeded",
+        "cap": 20,
+        "seed": 10,
+        "description": "Path to the left or right of the track that's within 1 build height unit (5ft) of the track's height.",
+        "impact": "Base proximity score: min(raw + 10, 20) at 1.75 each."
+    },
+    {
+        "key": "path_through_vertical_loop",
+        "label": "Path through loop",
+        "kind": "seeded",
+        "cap": 6,
+        "seed": 4,
+        "description": "Path pieces going through the ride's vertical loop.",
+        "impact": "Base proximity score: min(raw + 4, 6) at 15.0 each."
+    },
+    {
+        "key": "bonus_scenery_total",
+        "label": "Station-area scenery",
+        "description": "Scenery pieces around the first station. If the station is underground the score is fixed at 40 and scenery isn't counted.",
+        "impact": "Staction-area scenery boost contribution applied to excitement."
+    },
+    {
+        "key": "scenery_track_above",
+        "label": "Side scenery below track",
+        "kind": "perPiece",
+        "cap": 35,
+        "description": "Scenery that's one tile to the left or right of the track, the top of which is below the track's height.",
+        "impact": "Base proximity score: up to 35 side-adjacent scenery pieces at 1.428558 each."
+    },
+    {
+        "key": "scenery_track_overlapping",
+        "label": "Side scenery overlapping track",
+        "kind": "perPiece",
+        "cap": 35,
+        "description": "Scenery that's one tile to the left or right of the track, the top of which is within the track's clearance area.",
+        "impact": "Base proximity score: up to 35 side-adjacent scenery pieces at 0.857132 each."
+    },
+    {
+        "key": "foreign_track_above_or_below",
+        "label": "Other ride crosses track",
+        "kind": "seeded",
+        "cap": 15,
+        "seed": 10,
+        "description": "Another ride's track is above or below the track, regardless of if its touching or a near-miss.",
+        "impact": "Base proximity score: min(raw + 10, 15) at 2.666656 each."
+    },
+    {
+        "key": "foreign_track_touch_above",
+        "label": "Other ride touching above or below",
+        "kind": "seeded",
+        "cap": 15,
+        "seed": 10,
+        "description": "Another ride's track is above or below the track with zero gap.",
+        "impact": "Base proximity score: min(raw + 10, 15) at 4.666656 each."
+    },
+    {
+        "key": "foreign_track_close_above",
+        "label": "Other ride near-miss",
+        "kind": "perPiece",
+        "cap": 5,
+        "description": "Another ride's track passes over or under the track within a 1 to 5 build height unit gap (5-25ft).",
+        "impact": "Base proximity score: up to 5 pieces at 9.0 each."
+    },
+    {
+        "key": "foreign_track_side_close",
+        "label": "Other ride goes alongside",
+        "kind": "seeded",
+        "cap": 20,
+        "seed": 10,
+        "description": "Another ride's track is on the tile to the left or right within 1 build height unit (5ft).",
+        "impact": "Base proximity score: min(raw + 10, 20) at 2.25 each."
+    },
+    {
+        "key": "track_through_vertical_loop",
+        "label": "Other ride goes through loop",
+        "kind": "seeded",
+        "cap": 6,
+        "seed": 4,
+        "description": "Another ride's track passes through the ride's vertical loop window at 90 degrees.",
+        "impact": "Base proximity score: min(raw + 4, 6) at 20.0 each."
+    },
+    {
+        "key": "through_vertical_loop",
+        "label": "Passing through a loop",
+        "kind": "seeded",
+        "cap": 6,
+        "seed": 4,
+        "description": "Ride's track passes through another ride's vertical loop.",
+        "impact": "Base proximity score: min(raw + 4, 6) at 10.0 each."
+    },
+    {
+        "key": "intersecting_vertical_loop",
+        "label": "Intersecting loops",
+        "kind": "presence",
+        "description": "A one time boost for when the ride's vertical loop intersects another ride's vertical loop at 90 degrees.",
+        "impact": "Adds a one-time 100 proximity score if present anywhere."
+    },
+    {
+        "key": "own_track_touch_above",
+        "label": "Own track touching",
+        "kind": "seeded",
+        "cap": 15,
+        "seed": 10,
+        "description": "Ride passes over or under itself with zero vertical gap.",
+        "impact": "Base proximity score: min(raw + 10, 15) at 3.333328 each."
+    },
+    {
+        "key": "own_track_close_above",
+        "label": "Own track near-miss",
+        "kind": "perPiece",
+        "cap": 5,
+        "description": "Ride passes over or under itself within a 1 to 5 build height unit gap (5-25ft).",
+        "impact": "Base proximity score: up to 5 pieces at 6.0 each."
+    },
+    {
+        "key": "own_station_touch_above",
+        "label": "Over own station",
+        "kind": "presence",
+        "description": "A one-time boost when a ride passes directly over its own station with zero gap.",
+        "impact": "Adds a one-time 55 proximity score if present anywhere."
+    },
+    {
+        "key": "own_station_close_above",
+        "label": "Near-miss own station",
+        "kind": "presence",
+        "description": "A one-time boost when a ride passes over or under its own station with a 1 to 5 build height unit gap (5-25ft).",
+        "impact": "Adds a one-time 25 proximity score if present anywhere."
+    }
+]
