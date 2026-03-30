@@ -1,4 +1,4 @@
-![Proximity Boost Counter feature preview](github-readme-feature-20260330.png)
+![Proximity Boost Counter feature preview](github-readme-feature-20260330-2.png)
 
 # Proximity Boost Counter
 
