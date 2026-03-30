@@ -1,0 +1,1698 @@
+{
+  "0": {
+    "BonusLength": { "t": "6000", "e": "819", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "140434", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "51366", "i": "85019", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "400497", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "36864", "i": "30384", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "28235", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "43690", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "36864", "i": "30384", "n": "49648" }
+  },
+  "1": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 5)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "123987", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "35746", "n": "59578" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "34952", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "12850", "i": "28398", "n": "30427" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "20", "n": "30" },
+    "BonusProximity": { "t": "0", "e": "17893", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 50)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "59578" }
+  },
+  "2": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 10)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "32768", "i": "23831", "n": "79437" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "48036" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6971", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "8", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xC0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 60)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLateralGs": {
+      "t": "MakeFixed16_2dp(1, 50)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0x1720000", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "32768", "i": "23831", "n": "79437" }
+  },
+  "3": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 42)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "29789", "n": "55606" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "29552", "n": "57186" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "39009", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "15291", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "12", "n": "20" },
+    "BonusProximity": { "t": "0", "e": "15657", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "8366", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 30)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "29789", "n": "55606" }
+  },
+  "4": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "20480", "i": "23831", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "25700", "i": "30583", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "10", "n": "12" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "9760", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "6", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x70000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "1", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "20480", "i": "23831", "n": "49648" }
+  },
+  "5": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusTrainLength": { "t": "0", "e": "140434", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusSheltered": { "t": "0", "e": "-6425", "i": "6553", "n": "23405" },
+    "BonusProximity": { "t": "0", "e": "8946", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "20915", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0xC80000", "e": "2", "i": "2", "n": "2" },
+    "RequirementUnsheltered": { "t": "4", "e": "4", "i": "1", "n": "1" }
+  },
+  "6": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusTrainLength": { "t": "0", "e": "93622", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "70849", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "218453", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "21845", "i": "0", "n": "0" },
+    "BonusSheltered": { "t": "0", "e": "5140", "i": "6553", "n": "18724" },
+    "BonusProximity": { "t": "0", "e": "8946", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "16732", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0xAA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementUnsheltered": { "t": "4", "e": "4", "i": "1", "n": "1" }
+  },
+  "7": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 45)",
+      "i": "RideRating::make(0, 15)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "34179", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "58254", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "19275", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "13943", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "6", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x80000", "e": "2", "i": "2", "n": "2" },
+    "RequirementLateralGs": {
+      "t": "MakeFixed16_2dp(1, 30)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0xC80000", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "49648" }
+  },
+  "8": {
+    "BonusBoatHireNoCircuit": {
+      "t": "0",
+      "e": "RideRating::make(0, 20)",
+      "i": "0",
+      "n": "0"
+    },
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "22310", "i": "0", "n": "0" }
+  },
+  "9": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 8)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "102400", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "29721", "i": "43458", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "17893", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "8", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x70000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 10)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLateralGs": {
+      "t": "MakeFixed16_2dp(1, 50)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0xAA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "3", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "102400", "i": "35746", "n": "49648" }
+  },
+  "10": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 75)",
+      "i": "RideRating::make(0, 9)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "20480", "i": "20852", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "25700", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "9760", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "4", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x80000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 50)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0xF00000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "20480", "i": "20852", "n": "49648" }
+  },
+  "11": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 15)",
+      "i": "RideRating::make(0, 00)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "14860", "i": "0", "n": "11437" },
+    "BonusDrops": { "t": "0", "e": "8738", "i": "0", "n": "0" },
+    "BonusSheltered": { "t": "0", "e": "12850", "i": "6553", "n": "4681" },
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "8366", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0xC80000", "e": "8", "i": "2", "n": "2" }
+  },
+  "12": {
+    "BonusDownwardLaunch": {
+      "t": "0",
+      "e": "RideRating::make(0, 30)",
+      "i": "RideRating::make(0, 65)",
+      "n": "RideRating::make(0, 45)"
+    },
+    "BonusLaunchedFreefallSpecial": {
+      "t": "0",
+      "e": "0",
+      "i": "1355917",
+      "n": "451972"
+    },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "25098", "i": "0", "n": "0" }
+  },
+  "13": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 20)",
+      "i": "RideRating::make(0, 00)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "65536", "i": "23831", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" },
+    "RequirementMaxSpeed": { "t": "0xC0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementLateralGs": {
+      "t": "MakeFixed16_2dp(1, 20)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0x1720000", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "65536", "i": "23831", "n": "49648" }
+  },
+  "14": {
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "83662", "i": "0", "n": "0" },
+    "BonusTowerRide": { "t": "0", "e": "45875", "i": "0", "n": "26214" },
+    "RequirementUnsheltered": { "t": "5", "e": "4", "i": "1", "n": "1" }
+  },
+  "15": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "15", "n": "30" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "14", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 10)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "49648" }
+  },
+  "16": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 50)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "65536", "i": "29789", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x70000", "e": "2", "i": "2", "n": "2" },
+    "RequirementLength": { "t": "0x8C0000", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "65536", "i": "29789", "n": "49648" }
+  },
+  "17": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "40960", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "29721", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "19275", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "10", "n": "12" },
+    "BonusProximity": { "t": "0", "e": "21472", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "16732", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "8", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 10)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0x1720000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "40960", "i": "35746", "n": "49648" }
+  },
+  "18": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "7430", "i": "3476", "n": "4574" },
+    "BonusSheltered": { "t": "0", "e": "-19275", "i": "21845", "n": "23405" },
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "25098", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0x960000", "e": "2", "i": "2", "n": "2" },
+    "RequirementStations": { "t": "1", "e": "0", "i": "2", "n": "1" },
+    "RequirementUnsheltered": { "t": "4", "e": "4", "i": "1", "n": "1" }
+  },
+  "19": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "12", "n": "20" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "49648" }
+  },
+  "20": {
+    "BonusMazeSize": { "t": "100", "e": "1", "i": "2", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "22310", "i": "0", "n": "0" }
+  },
+  "21": {
+    "BonusSlideUnlimitedRides": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 20)",
+      "n": "RideRating::make(0, 25)"
+    },
+    "BonusScenery": { "t": "0", "e": "25098", "i": "0", "n": "0" }
+  },
+  "22": {
+    "BonusLength": { "t": "700", "e": "32768", "i": "0", "n": "0" },
+    "BonusGoKartRace": {
+      "t": "4",
+      "e": "RideRating::make(1, 40)",
+      "i": "RideRating::make(0, 50)",
+      "n": "0"
+    },
+    "BonusTurns": { "t": "0", "e": "4458", "i": "3476", "n": "5718" },
+    "BonusDrops": { "t": "0", "e": "8738", "i": "5461", "n": "6553" },
+    "BonusSheltered": { "t": "0", "e": "2570", "i": "8738", "n": "2340" },
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "16732", "i": "0", "n": "0" },
+    "RequirementUnsheltered": { "t": "6", "e": "2", "i": "1", "n": "1" }
+  },
+  "23": {
+    "BonusLength": { "t": "2000", "e": "7208", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusMaxSpeed": { "t": "0", "e": "531372", "i": "655360", "n": "301111" },
+    "BonusDuration": { "t": "300", "e": "13107", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "22291", "i": "20860", "n": "4574" },
+    "BonusDrops": { "t": "0", "e": "69905", "i": "62415", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "6", "e": "2", "i": "2", "n": "2" }
+  },
+  "24": {
+    "BonusLength": { "t": "2000", "e": "6225", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 30)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusMaxSpeed": { "t": "0", "e": "115130", "i": "159411", "n": "106274" },
+    "BonusDuration": { "t": "500", "e": "13107", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "29721", "i": "22598", "n": "5718" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "31314", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "13943", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "RequirementLength": { "t": "0xC80000", "e": "2", "i": "2", "n": "2" }
+  },
+  "25": {
+    "BonusOperationOption": { "t": "0", "e": "1", "i": "-2", "n": "0" },
+    "BonusNumTrains": {
+      "t": "4",
+      "e": "RideRating::make(0, 80)",
+      "i": "0",
+      "n": "0"
+    },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" }
+  },
+  "26": {
+    "BonusOperationOption": { "t": "0", "e": "5", "i": "5", "n": "10" },
+    "BonusScenery": { "t": "0", "e": "16732", "i": "0", "n": "0" }
+  },
+  "27": {
+    "BonusOperationOption": { "t": "0", "e": "11", "i": "22", "n": "22" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" }
+  },
+  "28": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "30": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "32": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "33": {
+    "BonusRotations": { "t": "0", "e": "5", "i": "5", "n": "5" },
+    "BonusScenery": { "t": "0", "e": "19521", "i": "0", "n": "0" }
+  },
+  "35": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "36": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "37": {
+    "BonusRotations": { "t": "0", "e": "25", "i": "25", "n": "25" },
+    "BonusScenery": { "t": "0", "e": "41831", "i": "0", "n": "0" }
+  },
+  "38": {
+    "BonusMotionSimulatorMode": { "t": "0", "e": "0", "i": "0", "n": "0" }
+  },
+  "39": { "Bonus3DCinemaMode": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "40": {
+    "BonusTopSpinMode": { "t": "0", "e": "0", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" }
+  },
+  "41": { "BonusScenery": { "t": "0", "e": "25098", "i": "0", "n": "0" } },
+  "42": {
+    "BonusLength": { "t": "6000", "e": "327", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 60)",
+      "i": "RideRating::make(0, 15)",
+      "n": "0"
+    },
+    "BonusMaxSpeed": { "t": "0", "e": "436906", "i": "436906", "n": "320398" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "41704", "n": "59578" },
+    "BonusSheltered": { "t": "0", "e": "12850", "i": "28398", "n": "11702" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "10", "n": "25" },
+    "BonusProximity": { "t": "0", "e": "17893", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "34", "e": "2", "i": "2", "n": "2" }
+  },
+  "43": {
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "83662", "i": "0", "n": "0" },
+    "BonusTowerRide": { "t": "0", "e": "45875", "i": "0", "n": "26214" },
+    "RequirementUnsheltered": { "t": "5", "e": "4", "i": "1", "n": "1" }
+  },
+  "44": {
+    "BonusLength": { "t": "4000", "e": "1146", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusMaxSpeed": { "t": "0", "e": "97418", "i": "141699", "n": "70849" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "40960", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "58254", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "20", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 10)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "1", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "40960", "i": "35746", "n": "49648" }
+  },
+  "45": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "46": {
+    "BonusRotations": { "t": "0", "e": "20", "i": "20", "n": "20" },
+    "BonusScenery": { "t": "0", "e": "13943", "i": "0", "n": "0" }
+  },
+  "47": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "48": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "49": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "50": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 15)",
+      "i": "RideRating::make(0, 00)",
+      "n": "0"
+    },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "14860", "i": "0", "n": "11437" },
+    "BonusDrops": { "t": "0", "e": "8738", "i": "0", "n": "0" },
+    "BonusSheltered": { "t": "0", "e": "25700", "i": "6553", "n": "4681" },
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "8366", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0xB40000", "e": "2", "i": "2", "n": "2" }
+  },
+  "51": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "32768", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "12", "n": "20" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "32768", "n": "49648" }
+  },
+  "52": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "40960", "i": "34555", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "43458", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "10", "n": "15" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 10)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0x1720000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "40960", "i": "34555", "n": "49648" }
+  },
+  "53": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "28672", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "43458", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "10", "n": "12" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "6", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x50000", "e": "2", "i": "2", "n": "2" },
+    "RequirementLength": { "t": "0xFA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "28672", "i": "35746", "n": "49648" }
+  },
+  "54": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 8)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "102400", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "29721", "i": "43458", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "17893", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "6", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x70000", "e": "2", "i": "2", "n": "2" },
+    "RequirementLateralGs": {
+      "t": "MakeFixed16_2dp(1, 50)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0xAA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "102400", "i": "35746", "n": "49648" }
+  },
+  "55": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "38130", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementInversions": { "t": "1", "e": "4", "i": "1", "n": "1" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "1", "n": "1" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "1",
+      "n": "1"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "1", "n": "1" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "38130", "n": "49648" }
+  },
+  "56": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "38130", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementInversions": { "t": "1", "e": "4", "i": "1", "n": "1" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "1", "n": "1" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "1",
+      "n": "1"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "1", "n": "1" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "38130", "n": "49648" }
+  },
+  "57": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "38130", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementInversions": { "t": "1", "e": "2", "i": "1", "n": "1" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "1", "n": "1" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "1",
+      "n": "1"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "1", "n": "1" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "38130", "n": "49648" }
+  },
+  "58": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "38130", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementInversions": { "t": "1", "e": "2", "i": "1", "n": "1" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "1", "n": "1" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "1",
+      "n": "1"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "1", "n": "1" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "38130", "n": "49648" }
+  },
+  "59": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "110592", "i": "29789", "n": "59578" },
+    "BonusTurns": { "t": "0", "e": "52012", "i": "26075", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "43690", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0xD20000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "110592", "i": "29789", "n": "59578" }
+  },
+  "60": {
+    "BonusLength": { "t": "2000", "e": "7208", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusMaxSpeed": { "t": "0", "e": "797059", "i": "655360", "n": "301111" },
+    "BonusDuration": { "t": "500", "e": "13107", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "22291", "i": "20860", "n": "4574" },
+    "BonusDrops": { "t": "0", "e": "87381", "i": "93622", "n": "62259" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "6", "e": "2", "i": "2", "n": "2" }
+  },
+  "61": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 15)",
+      "i": "RideRating::make(0, 00)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "14860", "i": "0", "n": "4574" },
+    "BonusDrops": { "t": "0", "e": "8738", "i": "0", "n": "0" },
+    "BonusSheltered": { "t": "0", "e": "12850", "i": "6553", "n": "4681" },
+    "BonusProximity": { "t": "0", "e": "8946", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "8366", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0xA00000", "e": "2", "i": "2", "n": "2" }
+  },
+  "62": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "38130", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementInversions": { "t": "1", "e": "4", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "38130", "n": "49648" }
+  },
+  "63": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusTrainLength": { "t": "0", "e": "93622", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "70849", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "218453", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "21845", "i": "0", "n": "0" },
+    "BonusSheltered": { "t": "0", "e": "5140", "i": "6553", "n": "18724" },
+    "BonusProximity": { "t": "0", "e": "12525", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "25098", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0xAA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementUnsheltered": { "t": "4", "e": "4", "i": "1", "n": "1" }
+  },
+  "64": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "38130", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementInversions": { "t": "1", "e": "4", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "38130", "n": "49648" }
+  },
+  "65": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusReversals": {
+      "t": "6",
+      "e": "RideRating::make(0, 20)",
+      "i": "RideRating::make(0, 20)",
+      "n": "RideRating::make(0, 20)"
+    },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "28672", "i": "23831", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "43458", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementReversals": { "t": "1", "e": "8", "i": "1", "n": "1" },
+    "RequirementLength": { "t": "0xC80000", "e": "2", "i": "1", "n": "1" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "1", "n": "1" },
+    "PenaltyLateralGs": { "t": "0", "e": "28672", "i": "23831", "n": "49648" }
+  },
+  "66": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 20)",
+      "i": "RideRating::make(0, 04)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "97418", "i": "123987", "n": "70849" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "44683", "n": "89367" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "52150", "n": "57186" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "53052", "n": "55705" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "34952", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "9841", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "3904", "i": "0", "n": "0" },
+    "RequirementInversions": { "t": "1", "e": "4", "i": "1", "n": "1" },
+    "RequirementNumDrops": { "t": "1", "e": "4", "i": "1", "n": "1" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "44683", "n": "89367" }
+  },
+  "67": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "14860", "i": "0", "n": "0" },
+    "BonusHoles": { "t": "31", "e": "5", "i": "0", "n": "0" },
+    "BonusSheltered": { "t": "0", "e": "5140", "i": "6553", "n": "4681" },
+    "BonusProximity": { "t": "0", "e": "15657", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "27887", "i": "0", "n": "0" },
+    "RequirementHoles": { "t": "1", "e": "8", "i": "2", "n": "2" }
+  },
+  "68": {
+    "BonusLength": { "t": "6000", "e": "819", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "140434", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "51366", "i": "85019", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "400497", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "36864", "i": "30384", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "28235", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "43690", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "20", "n": "20" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "16", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "36864", "i": "30384", "n": "49648" }
+  },
+  "69": {
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "25098", "i": "0", "n": "0" },
+    "BonusRotoDrop": { "t": "0", "e": "0", "i": "0", "n": "0" }
+  },
+  "70": {
+    "BonusOperationOption": { "t": "0", "e": "1", "i": "-2", "n": "0" },
+    "BonusNumTrains": {
+      "t": "4",
+      "e": "RideRating::make(0, 80)",
+      "i": "0",
+      "n": "0"
+    },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" }
+  },
+  "71": { "NoModifier": { "t": "0", "e": "0", "i": "0", "n": "0" } },
+  "72": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 15)",
+      "i": "RideRating::make(0, 00)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "14860", "i": "0", "n": "4574" },
+    "BonusDrops": { "t": "0", "e": "8738", "i": "0", "n": "0" },
+    "BonusSheltered": { "t": "0", "e": "5140", "i": "6553", "n": "2340" },
+    "BonusProximity": { "t": "0", "e": "8946", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0x8C0000", "e": "2", "i": "2", "n": "2" }
+  },
+  "73": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 42)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "30980", "n": "55606" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "29552", "n": "57186" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "39009", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "15291", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "15657", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "8366", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 30)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "30980", "n": "55606" }
+  },
+  "74": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "20480", "i": "23831", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "25700", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "9760", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "8", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x70000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "1", "e": "2", "i": "2", "n": "2" },
+    "RequirementSplashdown": { "t": "0", "e": "8", "i": "1", "n": "1" },
+    "PenaltyLateralGs": { "t": "0", "e": "20480", "i": "23831", "n": "49648" }
+  },
+  "75": {
+    "BonusLength": { "t": "6000", "e": "327", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 60)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusMaxSpeed": { "t": "0", "e": "509724", "i": "364088", "n": "320398" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "35746", "n": "59578" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "21845", "n": "11702" },
+    "BonusProximity": { "t": "0", "e": "17893", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "34", "e": "4", "i": "1", "n": "1" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "59578" }
+  },
+  "76": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 8)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "102400", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "29721", "i": "43458", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "17893", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "8", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x70000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 10)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLateralGs": {
+      "t": "MakeFixed16_2dp(1, 50)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0xAA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "3", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "102400", "i": "35746", "n": "49648" }
+  },
+  "77": {
+    "BonusOperationOption": { "t": "0", "e": "10", "i": "20", "n": "20" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" }
+  },
+  "78": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "22310", "i": "0", "n": "0" }
+  },
+  "79": {
+    "BonusLength": { "t": "2000", "e": "7208", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusMaxSpeed": { "t": "0", "e": "531372", "i": "655360", "n": "301111" },
+    "BonusDuration": { "t": "500", "e": "13107", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "22291", "i": "20860", "n": "4574" },
+    "BonusDrops": { "t": "0", "e": "78643", "i": "93622", "n": "62259" },
+    "BonusProximity": { "t": "0", "e": "13420", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" }
+  },
+  "81": {
+    "BonusOperationOption": { "t": "0", "e": "1", "i": "16", "n": "16" },
+    "BonusScenery": { "t": "0", "e": "19521", "i": "0", "n": "0" }
+  },
+  "86": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 42)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "29789", "n": "55606" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "29552", "n": "57186" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "39009", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "15291", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "15657", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "9760", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "20", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "29789", "n": "55606" }
+  },
+  "87": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "20480", "i": "23831", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "25700", "i": "30583", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "10", "n": "12" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "9760", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x70000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 50)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "20480", "i": "23831", "n": "49648" }
+  },
+  "88": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "40960", "i": "29789", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "29721", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "19275", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "10", "n": "12" },
+    "BonusProximity": { "t": "0", "e": "21472", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "16732", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0x10E0000", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "40960", "i": "29789", "n": "49648" }
+  },
+  "90": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "15", "n": "20" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "10", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": { "t": "10", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "49648" }
+  },
+  "91": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "20", "n": "30" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "49648" }
+  },
+  "92": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "32768", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "20", "n": "30" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "32768", "n": "49648" }
+  },
+  "93": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 15)",
+      "i": "RideRating::make(0, 00)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "14860", "i": "0", "n": "11437" },
+    "BonusDrops": { "t": "0", "e": "8738", "i": "0", "n": "0" },
+    "BonusSheltered": { "t": "0", "e": "12850", "i": "6553", "n": "4681" },
+    "BonusProximity": { "t": "0", "e": "11183", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "8366", "i": "0", "n": "0" },
+    "RequirementLength": { "t": "0xC80000", "e": "8", "i": "2", "n": "2" }
+  },
+  "94": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 8)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "102400", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "29721", "i": "43458", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "17893", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "6", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x70000", "e": "2", "i": "2", "n": "2" },
+    "RequirementLateralGs": {
+      "t": "MakeFixed16_2dp(1, 50)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0xAA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "102400", "i": "35746", "n": "49648" }
+  },
+  "95": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "20480", "i": "23831", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "25700", "i": "30583", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "10", "n": "12" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "9760", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "6", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0x70000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "20480", "i": "23831", "n": "49648" }
+  },
+  "96": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "400497", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "40960", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "34179", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "34952", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "15", "n": "25" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "14", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "49648" }
+  },
+  "97": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "36864", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "15", "n": "25" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "14", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 40)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "49648" }
+  },
+  "98": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 75)",
+      "i": "RideRating::make(0, 5)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "300", "e": "26214", "i": "0", "n": "0" },
+    "BonusTurns": { "t": "0", "e": "29721", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "8738", "i": "5461", "n": "6553" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementMaxSpeed": { "t": "0x50000", "e": "2", "i": "2", "n": "2" },
+    "RequirementLength": { "t": "0x1720000", "e": "2", "i": "2", "n": "2" }
+  },
+  "99": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "40960", "i": "34555", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "43458", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "12", "n": "22" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "1", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "1", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 10)",
+      "e": "2",
+      "i": "1",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0x1720000", "e": "2", "i": "1", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "1", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "40960", "i": "34555", "n": "49648" }
+  },
+  "100": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 10)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "123987", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "35746", "n": "59578" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "34952", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "12850", "i": "28398", "n": "30427" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "20", "n": "30" },
+    "BonusProximity": { "t": "0", "e": "17893", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "5577", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 50)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "59578" }
+  },
+  "101": {
+    "BonusLength": { "t": "6000", "e": "764", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "291271", "i": "436906", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "24576", "i": "35746", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "34767", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "29127", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "15420", "i": "32768", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "15", "n": "20" },
+    "BonusProximity": { "t": "0", "e": "20130", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "6693", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "10", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": { "t": "10", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "24576", "i": "35746", "n": "49648" }
+  },
+  "102": {
+    "BonusLength": { "t": "6000", "e": "873", "i": "0", "n": "0" },
+    "BonusSynchronisation": {
+      "t": "0",
+      "e": "RideRating::make(0, 40)",
+      "i": "RideRating::make(0, 05)",
+      "n": "0"
+    },
+    "BonusTrainLength": { "t": "0", "e": "187245", "i": "0", "n": "0" },
+    "BonusMaxSpeed": { "t": "0", "e": "44281", "i": "88562", "n": "35424" },
+    "BonusAverageSpeed": { "t": "0", "e": "364088", "i": "655360", "n": "0" },
+    "BonusDuration": { "t": "150", "e": "26214", "i": "0", "n": "0" },
+    "BonusGForces": { "t": "0", "e": "40960", "i": "34555", "n": "49648" },
+    "BonusTurns": { "t": "0", "e": "26749", "i": "43458", "n": "45749" },
+    "BonusDrops": { "t": "0", "e": "40777", "i": "46811", "n": "49152" },
+    "BonusSheltered": { "t": "0", "e": "16705", "i": "30583", "n": "35108" },
+    "BonusReversedTrains": { "t": "0", "e": "2", "i": "12", "n": "22" },
+    "BonusProximity": { "t": "0", "e": "22367", "i": "0", "n": "0" },
+    "BonusScenery": { "t": "0", "e": "11155", "i": "0", "n": "0" },
+    "RequirementDropHeight": { "t": "12", "e": "2", "i": "2", "n": "2" },
+    "RequirementMaxSpeed": { "t": "0xA0000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNegativeGs": {
+      "t": "MakeFixed16_2dp(0, 10)",
+      "e": "2",
+      "i": "2",
+      "n": "2"
+    },
+    "RequirementLength": { "t": "0x1720000", "e": "2", "i": "2", "n": "2" },
+    "RequirementNumDrops": { "t": "2", "e": "2", "i": "2", "n": "2" },
+    "PenaltyLateralGs": { "t": "0", "e": "40960", "i": "34555", "n": "49648" }
+  }
+}

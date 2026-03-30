@@ -42,12 +42,17 @@ async function ensureDir(filePath) {
 async function main() {
     const isRelease = process.argv.includes("--release");
     const boostsData = await fs.readFile('./src/boosts.json', 'utf-8');
+    const rideTypesData = await fs.readFile('./src/ride_types_bonus.json', 'utf-8');
+    const multipliersData = await fs.readFile('./src/entry_multipliers.json', 'utf-8');
     const sourceContent = await fs.readFile(sourceFile, 'utf-8');
 
     const buildId = isRelease ? `v${getVersionFromSource(sourceContent)}` : getTimestampId();
     const historyFile = path.join(scriptsDir, `/builds/proximity_boost_counter_${buildId}.js`);
 
-    const finalContent = sourceContent.replace('__PROXIMITY_DATA_PLACEHOLDER__', boostsData);
+    const finalContent = sourceContent
+        .replace('__RIDE_TYPES_DATA_PLACEHOLDER__', rideTypesData)
+        .replace('__PROXIMITY_DATA_PLACEHOLDER__', boostsData)
+        .replace('__ENTRY_MULTIPLIERS_PLACEHOLDER__', multipliersData);
 
     await ensureDir(historyFile);
     await ensureDir(livePluginFile);

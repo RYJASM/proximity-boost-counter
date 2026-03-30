@@ -1,0 +1,257 @@
+{
+    "rct2.ride.4x4": {
+        "e": 35,
+        "i": 20,
+        "n": 10
+    },
+    "rct2.ride.arrsw2": {
+        "e": 5,
+        "i": 0,
+        "n": 3
+    },
+    "rct2.ride.arrt1": {
+        "e": 0,
+        "i": 10,
+        "n": 0
+    },
+    "rct2.ride.arrt2": {
+        "e": 15,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.bboat": {
+        "e": 30,
+        "i": 15,
+        "n": 15
+    },
+    "rct2.ride.bmfl": {
+        "e": 10,
+        "i": 5,
+        "n": 10
+    },
+    "rct2.ride.bmrb": {
+        "e": 15,
+        "i": 3,
+        "n": 0
+    },
+    "rct2.ride.bmsu": {
+        "e": 2,
+        "i": 15,
+        "n": 10
+    },
+    "rct2.ride.clift2": {
+        "e": 0,
+        "i": 3,
+        "n": 4
+    },
+    "rct2.ride.goltr": {
+        "e": 10,
+        "i": 3,
+        "n": 0
+    },
+    "rct2.ride.intbob": {
+        "e": 5,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.jski": {
+        "e": 75,
+        "i": 75,
+        "n": 40
+    },
+    "rct2.ride.jstar1": {
+        "e": 3,
+        "i": 1,
+        "n": 0
+    },
+    "rct2.ride.mft": {
+        "e": 4,
+        "i": 0,
+        "n": 2
+    },
+    "rct2.ride.mono2": {
+        "e": 3,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.nrl": {
+        "e": 3,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.obs2": {
+        "e": 2,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.ptct2r": {
+        "e": 2,
+        "i": 10,
+        "n": 15
+    },
+    "rct2.ride.rckc": {
+        "e": 5,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.rcr": {
+        "e": 3,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.skytr": {
+        "e": 10,
+        "i": 25,
+        "n": 15
+    },
+    "rct2.ride.slcfo": {
+        "e": 8,
+        "i": 12,
+        "n": 10
+    },
+    "rct2.ride.steep1": {
+        "e": 5,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.steep2": {
+        "e": 3,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.swans": {
+        "e": 5,
+        "i": 2,
+        "n": 0
+    },
+    "rct2.ride.trike": {
+        "e": 3,
+        "i": 0,
+        "n": 2
+    },
+    "rct2.ride.vekdv": {
+        "e": 8,
+        "i": 12,
+        "n": 10
+    },
+    "rct2.ride.vekvamp": {
+        "e": 8,
+        "i": 4,
+        "n": 7
+    },
+    "rct2.ride.wmmine": {
+        "e": 0,
+        "i": 3,
+        "n": 0
+    },
+    "rct2.ride.wmouse": {
+        "e": 3,
+        "i": 0,
+        "n": 0
+    },
+    "rct2.ride.wmspin": {
+        "e": 7,
+        "i": 5,
+        "n": 43
+    },
+    "rct2tt.ride.bmvoctps": {
+        "e": 2,
+        "i": 0,
+        "n": 0
+    },
+    "rct2tt.ride.cerberus": {
+        "e": 15,
+        "i": 3,
+        "n": 0
+    },
+    "rct2tt.ride.flalmace": {
+        "e": 75,
+        "i": 75,
+        "n": 20
+    },
+    "rct2tt.ride.flwrpowr": {
+        "e": 75,
+        "i": 40,
+        "n": 10
+    },
+    "rct2tt.ride.hoverbke": {
+        "e": 5,
+        "i": 0,
+        "n": 0
+    },
+    "rct2tt.ride.mgr2": {
+        "e": 11,
+        "i": 3,
+        "n": 1
+    },
+    "rct2tt.ride.raptorxx": {
+        "e": 3,
+        "i": 0,
+        "n": 0
+    },
+    "rct2tt.ride.spokprsn": {
+        "e": 75,
+        "i": 0,
+        "n": 0
+    },
+    "rct2ww.ride.anaconda": {
+        "e": 15,
+        "i": 0,
+        "n": 0
+    },
+    "rct2ww.ride.bullet": {
+        "e": 0,
+        "i": 10,
+        "n": 0
+    },
+    "rct2ww.ride.caddilac": {
+        "e": 0,
+        "i": 10,
+        "n": 0
+    },
+    "rct2ww.ride.congaeel": {
+        "e": 0,
+        "i": 10,
+        "n": 0
+    },
+    "rct2ww.ride.dolphinr": {
+        "e": 75,
+        "i": 75,
+        "n": 40
+    },
+    "rct2ww.ride.dragon": {
+        "e": 0,
+        "i": 10,
+        "n": 0
+    },
+    "rct2ww.ride.gratwhte": {
+        "e": 0,
+        "i": 10,
+        "n": 0
+    },
+    "rct2ww.ride.mandarin": {
+        "e": 5,
+        "i": 2,
+        "n": 0
+    },
+    "rct2ww.ride.polarber": {
+        "e": 8,
+        "i": 12,
+        "n": 10
+    },
+    "rct2ww.ride.seals": {
+        "e": 0,
+        "i": 10,
+        "n": 0
+    },
+    "rct2ww.ride.surfbrdc": {
+        "e": 2,
+        "i": 15,
+        "n": 10
+    },
+    "rct2ww.ride.tutlboat": {
+        "e": 30,
+        "i": 15,
+        "n": 15
+    }
+}
