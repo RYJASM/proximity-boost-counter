@@ -389,7 +389,7 @@ function buildSceneryBoostAnalysis(ride) {
 
     base.minValue = "0.00";
     base.maxValue = formatFixed(computeShiftedContribution(capItems * 5, coeffExpr), 2);
-    base.rule = "Counts up to 47 pieces of scenery towards the boost score. If station is underground, fixed scenery score is 40.";
+    base.rule = "Counts up to 47 pieces of scenery towards the boost score. If station is underground, a fixed count of 40 items is used.";
     base.current = formatFixed(contribution, 2);
     base.status = scenery.underground
         ? "Underground station fallback used"
@@ -894,7 +894,7 @@ function getApproxSceneryScore(ride) {
     for (i = 0; i < startTile.numElements; i++) {
         var startEl = startTile.getElement(i);
         if (startEl && !startEl.isGhost && startEl.type === "surface" && startEl.baseZ > station.start.z) {
-            return { score: 40, sceneryItems: 0, underground: true };
+            return { score: 200, sceneryItems: 40, underground: true };
         }
     }
 
