@@ -37,7 +37,7 @@ When you select a coaster, the plugin scans the map for that ride’s track elem
 2. Launch the plugin using either:
    - Menu: **Proximity Boost Counter**
    - Shortcut: **Ctrl+P**
-3. The plugin window opens. Click **Pick** and then click a coaster (or one of its vehicles) with the crosshair.
+3. The plugin window opens. Click **Pick Ride** and then click a coaster (or one of its vehicles) with the crosshair.
 4. Inspect the table and click rows to view explanations and estimated score impacts.
 5. Use **Refresh** after track/scenery changes.
 
