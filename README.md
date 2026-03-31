@@ -17,6 +17,15 @@ This tool is focused on **roller coasters only**.
 - Refresh button to recalculate after edits
 - Pick button to choose another ride
 
+## Column guide
+
+| Column | Description |
+|---|---|
+| **Total** | Number of qualifying track pieces found, uncapped. |
+| **Scored** | The capped count used in the actual calculation. Some factors add a seed bonus the moment you have any qualifying piece at all. |
+| **Cap** | The maximum number of pieces that contribute to this factor's score. |
+| **Est. Impact** | Approximate excitement gain under ideal conditions. Assumes no intensity penalty and uses known vehicle multipliers. Custom train types may not report accurate values. |
+
 ## How it works
 
 When you select a coaster, the plugin scans the map for that ride’s track elements and scores nearby interactions (for example: over water, near paths, near scenery, and near other track). It then displays per-factor counts in the window so you can see where your proximity score is coming from.
