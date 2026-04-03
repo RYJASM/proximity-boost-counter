@@ -541,7 +541,15 @@ function getRideModeName(mode) {
     return "Mode " + mode;
 }
 
+function isStationTrackType(trackType) {
+    // endStation=1, beginStation=2, middleStation=3
+    return trackType === 1 || trackType === 2 || trackType === 3;
+}
+
 function safeGetStationIndex(trackEl) {
+    if (!isStationTrackType(trackEl.trackType)) {
+        return null;
+    }
     try {
         return trackEl.station;
     }
