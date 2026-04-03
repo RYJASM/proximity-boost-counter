@@ -7,7 +7,7 @@ import { button, compute, groupbox, horizontal, label, listview, store, tab, tab
 
 registerPlugin({
     name: "Proximity Boost Counter",
-    version: "1.2.2",
+    version: "1.2.3",
     authors: ["RYJASM"],
     type: "local",
     licence: "GNU General Public License v3.0",
